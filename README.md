@@ -1,3 +1,14 @@
+<h1>Installation Steps: </h1>
+<ol>
+    <li>Clone Repository</li>
+    <li>run on command line: Composer Install</li>
+    <li>setup .env file</li>
+    <li>run on command line: php artisan key:generate</li>
+    <li>run on command line: php artisan storage:link</li>
+    <li>run on command line: php artisan serve</li>
+</ol>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
