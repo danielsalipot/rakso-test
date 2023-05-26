@@ -4,6 +4,7 @@
     <li>run on command line: Composer Install</li>
     <li>setup .env file</li>
     <li>run on command line: php artisan key:generate</li>
+    <li>run on command line: php artisan migrate:fresh --seed</li>
     <li>run on command line: php artisan storage:link</li>
     <li>run on command line: php artisan serve</li>
 </ol>
